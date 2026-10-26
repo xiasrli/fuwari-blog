@@ -1,5 +1,10 @@
-# About
-This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
+# 关于
+
+你好，我是 Xiasr。这里用于记录生活、技术和学习笔记。
+
+博客使用 [Fuwari](https://github.com/saicaca/fuwari) 主题和 Astro 构建，托管在 GitHub Pages。
+
+[博客源码](https://github.com/xiasrli/fuwari-blog) · [GitHub](https://github.com/xiasrli)
 
 ::github{repo="saicaca/fuwari"}
 
